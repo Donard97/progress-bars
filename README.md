@@ -4,15 +4,15 @@
 
 
 
-# BUILT WITH
+## BUILT WITH
 - HTML
 - CSS
 - JS
 
-# LIVE DEMO
+## LIVE DEMO
 [Live link demo](https://donard97.github.io/progress-bars/)
 
-# AUTHORS
+## AUTHORS
 
 👤 **Donard Golaj**
  
@@ -23,16 +23,16 @@ Linkdn : [@donard-golaj](https://www.linkedin.com/in/donard-golaj/) <br>
 
 
 
-# 🤝 Contributing
+## 🤝 Contributing
 Contributions, isses, and feature requests are welcome!
 Feel free to check the issues page.
 
-# Show your support
+## Show your support
 Give a ⭐️ if you like this project!
 
-# Acknowledgments
+## Acknowledgments
 
  Thanks to Torc LLC for giving me the opportunitty to apply and create this little project.
 
-# 📝 License
+## 📝 License
 This project is MIT licensed.
