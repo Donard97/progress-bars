@@ -32,7 +32,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
- Thanks to Torc LLC for giving me the opportunitty to apply and create this little project.
+ Thanks to ShortPoint for giving me the opportunitty to apply and create this project.
 
 ## 📝 License
 This project is MIT licensed.
