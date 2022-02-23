@@ -114,3 +114,14 @@ pre {
 .fifth-bar > span {
   background-color: yellow;
 }
+
+.btn button{
+  padding: 10px 70px;
+  border-radius: 20px;
+  border: none;
+  background: black;
+  color: white;
+  font-weight: 600;
+  letter-spacing: 1px;
+  margin-top: 5%;
+}
