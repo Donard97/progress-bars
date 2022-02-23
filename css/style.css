@@ -6,12 +6,15 @@ body {
   text-align: center;
   color: black;
   font-family: system-ui, sans-serif;
+  background: whitesmoke;
 }
+
 h1 {
   font-size: 42px;
   font-weight: 600;
   margin: 0 0 30px;
 }
+
 pre {
   background: #000;
   text-align: left;
@@ -32,6 +35,7 @@ pre {
 
 .meter > span {
   display: block;
+  width: 50%;
   height: 100%;
   border-radius: 20px;
   padding-right: 8px;
@@ -98,7 +102,6 @@ pre {
   width: 60%;
   margin: 80px auto;
 }
-
 
 .second-bar > span {
   background-color: red;
