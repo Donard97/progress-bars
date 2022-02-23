@@ -10,7 +10,7 @@
 - JS
 
 # LIVE DEMO
-[Live link demo]()
+[Live link demo](https://donard97.github.io/progress-bars/)
 
 # AUTHORS
 
